@@ -91,11 +91,12 @@ public:
     }
 };
 
-// Пример использования
+
+
 int main() {
     try {
         Lift myLift(1, 10);
-        myLift.operate(); // Запуск работы с пользователем
+        myLift.operate(); 
     }
     catch (const invalid_argument& e) {
         cerr << "Error: " << e.what() << endl;
