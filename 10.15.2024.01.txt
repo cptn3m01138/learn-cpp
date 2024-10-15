@@ -1,1 +1,1 @@
-»нкапсул€ци€ - это один из принципов объектно-ориентированного программировани€, который заключаетс€ в объединении данных и методов, работающих с этими данными, в единый объект.   
+Encapsulation is one of the principles of object-oriented programming, which consists of combining data and methods that work with this data into a single object.  
